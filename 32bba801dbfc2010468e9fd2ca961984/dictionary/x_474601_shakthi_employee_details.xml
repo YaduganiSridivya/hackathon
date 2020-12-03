@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Employee details" max_length="40" name="x_474601_shakthi_employee_details" sizeclass="2" type="collection">
+        <element label="Email" max_length="100" name="email" type="string_full_utf8"/>
+        <element label="Name" max_length="100" name="name" type="string"/>
+    </element>
+</database>

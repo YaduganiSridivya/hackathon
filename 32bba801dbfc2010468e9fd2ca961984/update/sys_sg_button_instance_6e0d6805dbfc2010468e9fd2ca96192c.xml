@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (employee)">6a0d6805dbfc2010468e9fd2ca961927</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (employee)</name>
+        <order/>
+        <parent>260de8c1dbfc2010468e9fd2ca961948</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-28 15:58:34</sys_created_on>
+        <sys_id>6e0d6805dbfc2010468e9fd2ca96192c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (employee)</sys_name>
+        <sys_package display_value="Shakthi" source="x_474601_shakthi">32bba801dbfc2010468e9fd2ca961984</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shakthi">32bba801dbfc2010468e9fd2ca961984</sys_scope>
+        <sys_update_name>sys_sg_button_instance_6e0d6805dbfc2010468e9fd2ca96192c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-28 15:58:34</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=6e0d6805dbfc2010468e9fd2ca96192c"/>
+</record_update>

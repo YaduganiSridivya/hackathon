@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="employee" max_length="40" name="x_474601_shakthi_employee" sizeclass="2" type="collection">
+        <element label="Assign to" max_length="32" name="assign_to" reference="x_474601_shakthi_hr_details" type="reference"/>
+        <element choice="3" default="HR" label="Concerned" max_length="100" name="concerned" type="string_full_utf8">
+            <choice>
+                <element inactive_on_update="false" label="Doctor" sequence="0" value="Doctor"/>
+                <element inactive_on_update="false" label="Psychiatrist" sequence="1" value="Psychiatrist"/>
+            </choice>
+        </element>
+        <element label="Email" max_length="32" name="email" reference="x_474601_shakthi_employee_details" type="reference"/>
+        <element label="Employee Name" max_length="32" name="employee" reference="x_474601_shakthi_employee_details" type="reference"/>
+    </element>
+</database>

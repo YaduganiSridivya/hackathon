@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="assign_to" label="Assign to" language="en" table="x_474601_shakthi_employee">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>assign_to</element>
+            <help/>
+            <hint/>
+            <label>Assign to</label>
+            <language>en</language>
+            <name>x_474601_shakthi_employee</name>
+            <plural>Assign to</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-30 10:54:54</sys_created_on>
+            <sys_id>cebabd29dbb4a010468e9fd2ca961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Assign to</sys_name>
+            <sys_package display_value="Shakthi" source="x_474601_shakthi">32bba801dbfc2010468e9fd2ca961984</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Shakthi">32bba801dbfc2010468e9fd2ca961984</sys_scope>
+            <sys_update_name>sys_documentation_x_474601_shakthi_employee_assign_to_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-30 10:54:54</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

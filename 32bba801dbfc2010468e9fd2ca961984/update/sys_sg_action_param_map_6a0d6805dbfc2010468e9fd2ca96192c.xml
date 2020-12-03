@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (employee)">6a0d6805dbfc2010468e9fd2ca961927</button>
+        <item_parameter display_value="employee assigned_to">220de8c1dbfc2010468e9fd2ca96194d</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-28 15:58:34</sys_created_on>
+        <sys_id>6a0d6805dbfc2010468e9fd2ca96192c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>220de8c1dbfc2010468e9fd2ca96194d</sys_name>
+        <sys_package display_value="Shakthi" source="x_474601_shakthi">32bba801dbfc2010468e9fd2ca961984</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shakthi">32bba801dbfc2010468e9fd2ca961984</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_6a0d6805dbfc2010468e9fd2ca96192c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-28 15:58:34</sys_updated_on>
+        <ui_parameter display_value="Assigned to">6e0d6805dbfc2010468e9fd2ca961928</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

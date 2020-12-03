@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map">
+    <sys_sg_navigation_tab_map action="INSERT_OR_UPDATE">
+        <navigation display_value="Mobile Agent">679d4f0653d033002d96ddeeff7b1279</navigation>
+        <navigation_tab display_value="Shakthi">2e0de8c1dbfc2010468e9fd2ca961946</navigation_tab>
+        <order>260</order>
+        <sys_class_name>sys_sg_navigation_tab_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-28 15:58:34</sys_created_on>
+        <sys_id>3e0d6805dbfc2010468e9fd2ca961939</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Shakthi" source="x_474601_shakthi">32bba801dbfc2010468e9fd2ca961984</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shakthi">32bba801dbfc2010468e9fd2ca961984</sys_scope>
+        <sys_update_name>sys_sg_navigation_tab_map_3e0d6805dbfc2010468e9fd2ca961939</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-28 15:58:34</sys_updated_on>
+    </sys_sg_navigation_tab_map>
+</record_update>

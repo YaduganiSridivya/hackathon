@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="concerned" table="x_474601_shakthi_employee" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>concerned</element>
+            <name>x_474601_shakthi_employee</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-30 08:53:19</sys_created_on>
+            <sys_id>fceed965db74a010468e9fd2ca9619c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>concerned</sys_name>
+            <sys_package display_value="Shakthi" source="x_474601_shakthi">32bba801dbfc2010468e9fd2ca961984</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Shakthi">32bba801dbfc2010468e9fd2ca961984</sys_scope>
+            <sys_update_name>sys_choice_x_474601_shakthi_employee_concerned</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-30 08:53:19</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>concerned</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Doctor</label>
+            <language>en</language>
+            <name>x_474601_shakthi_employee</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-30 08:53:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>74eed965db74a010468e9fd2ca9619c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-30 08:53:19</sys_updated_on>
+            <value>Doctor</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>concerned</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Psychiatrist</label>
+            <language>en</language>
+            <name>x_474601_shakthi_employee</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-30 08:53:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>78eed965db74a010468e9fd2ca9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-30 08:53:19</sys_updated_on>
+            <value>Psychiatrist</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
